@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Khang Luu!
+### Hi there 👋 My name is Khang!
 
 - 🔭 I’m currently a Junior at UCLA majoring in Statistics and Data Science with a minor in Data Science Engineering.
 - 🌱 I’m currently learning a lot about experimental design and analysis, theory of regression analysis, optimization, supervised machine learning, and how to make the best omelette 🥚.
